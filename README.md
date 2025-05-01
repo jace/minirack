@@ -1,9 +1,10 @@
-10" Minirack
-============
+# 10" Minirack
 
 CAD designs and 3D printable STLs for a 10" minirack.
 
 Context: https://jackerhack.ing/notes/202503120801-2020-rack
+
+I'm new to CAD, so these designs reflect my learning journey. Each design is in a separate folder with its own documentation.
 
 Other resources:
 
