@@ -1,0 +1,12 @@
+# Cache and backup files
+.DS_Store
+*.FCBak
+*.pyc
+__pycache__
+
+# Working directories
+.venv
+.env
+.vscode
+venv
+env
