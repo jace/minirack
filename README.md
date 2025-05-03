@@ -1,6 +1,6 @@
-# 10" Minirack
+# 10" Minirack components
 
-CAD designs and 3D printable STLs for a 10" minirack.
+CAD designs and 3D printable STLs for a 10" minirack. My version is made from 2020 extrusions without rackmount strips.
 
 Context: https://jackerhack.ing/notes/202503120801-2020-rack
 
