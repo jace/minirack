@@ -15,7 +15,7 @@ For the final bit, apply a small strip of foam tape on the left side (USB port s
 ## BOM
 
 1. 4010 fan, 5V or 12V
-2. [USB-PD trigger decoy with dip switches and screw terminals](https://hubtronics.in/usb-c-pd-qc-high-speed-charger-power-delivery-boost-module) ([another source](https://www.amazon.in/Efillooc-Trigger-Charging-Adjustable-Voltage/dp/B0F26BYL87/ref=asc_df_B0F26BYL87))
+2. [USB-PD trigger decoy with dip switches and screw terminals](https://robu.in/product/pdsink-pd-decoy-pd-fast-charging-test-board/), ([source 2](https://hubtronics.in/usb-c-pd-qc-high-speed-charger-power-delivery-boost-module), [source 3](https://www.amazon.in/Efillooc-Trigger-Charging-Adjustable-Voltage/dp/B0F26BYL87/ref=asc_df_B0F26BYL87))
 3. [50x50x11 mm heatsink](https://www.amazon.in/dp/B0F7FBR49R) (aluminium or copper)
 4. 50x50 thermal pad or copper plate and thermal paste, for better heat transfer
 5. Small piece of foam tape for a secure fit
